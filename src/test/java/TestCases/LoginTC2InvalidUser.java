@@ -23,7 +23,8 @@ public class LoginTC2InvalidUser {
 //
 		wutil.openUrlInBrowser("https://opensource-demo.orangehrmlive.com/web/index.php/auth/login");
 //
-
+//  adding comments by Tester -2
+// Added line 2-
 //		// open browser		
 //		// open url in browser
 //		System.setProperty("webdriver.chrome.driver", ".\\Drivers\\chromedriver.exe");
